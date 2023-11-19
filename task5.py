@@ -5,7 +5,7 @@ class Numbers:
         self.Value = 0
 
     def Accept(self):
-        self.Value = int(input("Enter a number to do given operations: "))
+        self.Value = int(input("Enter a number to do given operations : "))
 
     def ChkPrime(self):
         i = 0
